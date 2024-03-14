@@ -5,4 +5,6 @@
     <string name="close_at2">Close AT2</string>
     <string name="open_at2">Open AT2</string>
     <string name="student_info">Name: Nuno Lopes\nAge: 22\nNumber: 24897</string>
+    <string name="change_to_pt">Change to PT</string>
+    <string name="change_to_eng">Change to ENG</string>
 </resources>
