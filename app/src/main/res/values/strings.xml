@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="at1">AT1</string>
+    <string name="at2">AT2</string>
+    <string name="close_at2">Close AT2</string>
+    <string name="open_at2">Open AT2</string>
+    <string name="student_info">Name: Nuno Lopes\nAge: 22\nNumber: 24897</string>
+</resources>

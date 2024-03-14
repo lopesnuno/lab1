@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="at1">AT1</string>
+    <string name="at2">AT2</string>
+    <string name="close_at2">Fechar AT2</string>
+    <string name="open_at2">Abrir AT2</string>
+    <string name="student_info">Nome: Nuno Lopes\nIdade: 22\nNúmero: 24897</string>
+</resources>
